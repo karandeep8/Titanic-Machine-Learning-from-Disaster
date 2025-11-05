@@ -1,4 +1,4 @@
-# Titanic---Machine-Learning-from-Disaster
+# Titanic-Machine-Learning-from-Disaster
 **🚢 Titanic Survival Prediction - Advanced ML Pipeline**
 
 **An advanced, educational machine learning project for predicting Titanic passenger survival using sophisticated feature engineering, predictive imputation, ensemble methods, and stacking.**
